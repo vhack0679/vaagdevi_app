@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Vaagdevi College</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">Vaagdevi is dedicated to excellence in learning, teaching, and leading so that every child is innovative engaged supported and challenged.We are committed for the overall development of the students to meet the global challenges. the Vaagdevi Degree College was established in 1993 at Hanamkonda. A Co-Educational college affiliated to Kakatiya University successfully introduced P.G Courses in 1995 to cater the needs of the students. Located at the heart of the tri-cities in Warangal Achieving excellence not only in the academic but also in sports, cultural, curricular fields is our motto.
+    Computer science combines the intellectual challenge of a young discipline with the excitement of an innovative and rapidly expanding technology. It has been an active area at VAAGDEVI DEGREE AND PG COLLEGE for 27 years and has been a department for nearly 27 years. The department resides in for Information Technology, a striking building housing many of the University’s computing activities. Faculty, staff and students are provided state-of-the-art computing facilities managed by the department’s technical staff.
+The Department of Computer Science at Vaagdevi Degree and P.G college is one of the largest departments . We offer a broad range of modern undergraduate programs and a host of opportunities at Masters level.
+</string>
+    <string name="welcom">WELCOME \n TO \n VAAGDEVI COLLEGE</string>
+    <string name="hyperlink">Learn more about Android app development at\n<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTGmSNtWRXFdjRWNkrvfZRSqdFKDFpTRhsVZcnpKbJgwjBRpTfQjsjTBkcbqzDrMxTJgNB">LearnToDroid.com</a></string>
+</resources>

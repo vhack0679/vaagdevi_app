@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249095526254",
+    "project_id": "vaagdevi-college-b8792",
+    "storage_bucket": "vaagdevi-college-b8792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249095526254:android:b85ead520a0629f036937f",
+        "android_client_info": {
+          "package_name": "com.example.vaagdevicollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249095526254-4j0c6a62a41eam7qtpnokkpqs7plh80r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40s-LxtA5MK_h3LgFGtNzNkdwDtPfsKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249095526254-4j0c6a62a41eam7qtpnokkpqs7plh80r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
