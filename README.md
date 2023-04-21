@@ -5,7 +5,7 @@ We developed this Application using JAVA , XML and FIREBASE for Database Connect
 
 We Implemented This Application using ANDROID STUDIO.
 
-There are two apps : USER APP and ADMIN APP.
+There are two apps : USER APP and ADMIN APP.<br/>
 <img src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo-640x400.png" width="25%"/>
 <img src="https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/w1200-h630-p-k-no-nu/image00.png" width="25%"/>
 # SCREENSHORTS
