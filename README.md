@@ -1,3 +1,4 @@
+<head><meta name="google-site-verification" content="8wTJbPR0VNI1pBZ7B33AGe4e6XmavELZ4APR-LN2Wqk" /></head>
 # VAAGDEVI COLLEGE APP
 This is a College App Which is designed for College purposes like showing introduction about college, showing various important Notices, Ebook for providing study materials to its students, A gallery for College Related Images, Faculty Details of every department and many more. Basically this app is  Prototype for our College App.
 
